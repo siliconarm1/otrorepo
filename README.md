@@ -1,7 +1,2 @@
 > otrorepo
-asdf
-asdf
-sadf
-fsda
-asdf
-
+NO ES TU PROYECTO
